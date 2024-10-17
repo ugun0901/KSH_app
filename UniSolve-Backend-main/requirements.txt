@@ -1,0 +1,9 @@
+Flask
+flask-mysqldb
+flask-cors
+bcrypt
+PyJWT
+pytz
+requests
+mysql-connector-python
+pymysql
